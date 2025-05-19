@@ -5,7 +5,7 @@
 - 🔭 I’m working on a technical documentation management system developed in collaboration with an aviation club.  
 - 🌱 I’m currently learning React.
 - 🔍 I’m actively looking for internships or job opportunities.
-- 📄 You can download my CV here: [Kacper Stasiak CV](link-do-twojego-cv.pdf)
+- 📄 You can download my CV here: [Kacper Stasiak CV](CV.pdf)
 - 📫 How to reach me: [stasiak.kacper@proton.me](mailto:stasiak.kacper@proton.me)
 
 #
