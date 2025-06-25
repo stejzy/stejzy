@@ -3,7 +3,7 @@
 **`Backend/Fullstack Developer | Computer Science Student`**
 
 - 🔭 I’m working on a technical documentation management system developed in collaboration with an aviation club.  
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React Native.
 - 🔍 I’m actively looking for internships or job opportunities.
 - 📄 You can download my CV here: [Kacper Stasiak CV](CV.pdf)
 - 📫 How to reach me: [stasiak.kacper@proton.me](mailto:stasiak.kacper@proton.me)
@@ -22,6 +22,7 @@
 <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right:10px;" />
+<img align="left" alt="Vue.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="margin-right:10px;" />
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right:10px;" />
