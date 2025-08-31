@@ -7,7 +7,7 @@ specializing in Software Engineering and Data Analysis. Focused on writing clean
 efficient code and solving complex problems. Ready to transition into a junior
 developer role and contribute to meaningful software products.
 
-You can download my CV here: [Kacper Stasiak CV](CV.pdf)
+You can download my CV here: [Kacper Stasiak CV](CV.pdf) <br>
  How to reach me: [stasiak.kacper@proton.me](mailto:stasiak.kacper@proton.me)
 
 #
