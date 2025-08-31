@@ -1,12 +1,14 @@
 ## Hi there, I'm Kacper 👋
 
-**`Backend/Fullstack Developer | Computer Science Student`**
+**`Software Developer | Computer Science Student`**
 
-- 🔭 I’m working on a technical documentation management system developed in collaboration with an aviation club.  
-- 🌱 I’m currently learning React Native.
-- 🔍 I’m actively looking for internships or job opportunities.
-- 📄 You can download my CV here: [Kacper Stasiak CV](CV.pdf)
-- 📫 How to reach me: [stasiak.kacper@proton.me](mailto:stasiak.kacper@proton.me)
+I am a final-year Computer Science student at Lodz University of Technology,
+specializing in Software Engineering and Data Analysis. Focused on writing clean,
+efficient code and solving complex problems. Ready to transition into a junior
+developer role and contribute to meaningful software products.
+
+You can download my CV here: [Kacper Stasiak CV](CV.pdf)
+ How to reach me: [stasiak.kacper@proton.me](mailto:stasiak.kacper@proton.me)
 
 #
 
@@ -27,20 +29,3 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="margin-right:10px;" />
-
-<br />
-
-#
-
-<details>
-  <summary>🧑‍💻 About Me</summary>
-
-  I am a third-year Applied Computer Science student at the Lodz University of Technology (expected graduation 🎓 in March 2026), continuously expanding my skill set and interests.
-
-  Late-night coding sessions and sleepless nights are not unfamiliar to me. I enjoy exploring new technologies, especially backend ones, although frontend development is also not a challenge.
-
-  Outside of programming, I play volleyball and go to the gym. I’m also interested in chess ♟️.
-
-  I am an open-minded, disciplined, and eager-to-learn person — I enjoy taking on challenges and finding efficient solutions.
-
-</details>
